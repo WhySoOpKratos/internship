@@ -9,3 +9,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+#calc {
+  width: 80%;
+  background-color: white;
+}
+#calc .calcBtn {
+  width: 100%;
+}
