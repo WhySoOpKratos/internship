@@ -9,29 +9,3 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
-.title {
-  width: 2510px;
-  color: green;
-  padding: 10px;
-  border: solid black 2px;
-}
-
-input[type="button"] {
-  background-color: green;
-  color: black;
-  border: solid black 2px;
-  width: 100%;
-}
-input[type="text"] {
-  background-color: white;
-  border: solid black 2px;
-  width: 95%;
-}
-#th {
-  border: 1px solid black;
-  border-radius: 100px;
-}
-#td {
-  border: 1px solid black;
-  border-radius: 100px;
-}
